@@ -1,0 +1,23 @@
+The data for each is planet specific
+	Should that be a directive for the whole thing?
+	
+What's the advantage in the closure around directives?
+
+customAngelMul problem - why does this work with ref and not with the scope val itself?
+
+save to file
+
+Tidy up code in calculate, calculation etc.
+
+Child controllers or directives all the way down?
+
+Name controller (ready for Angular 2 stuff)
+
+TypeScript
+
+Source controller
+
+Merge in more recent changes (latest event stuff gone)
+
+Work out how the game actually does the calculations
+
